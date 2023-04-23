@@ -46,41 +46,6 @@ b) In order to build the project using command line:
 https://vcpkg.io/en/getting-started.html
 
 
-Your vcpkg.json file should look like something similar to 
-
-{
-
-    "name": "filters",
-    
-    "version": "0.0.1",
-    
-    "builtin-baseline": "a7b6122f6b6504d16d96117336a0562693579933",
-    
-    "dependencies": [
-    
-        {
-            
-            "name": "qt5-base",
-            
-            "version>=": "5.15.6"
-        
-        },
-        
-        {
-            
-            "name": "opencv",
-            
-            "version>=": "4.6.0"
-        
-        }
-    
-    ]
-}
-
-
-
-
-
 
 
 
