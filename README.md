@@ -10,20 +10,30 @@
 
 
 "cmake.configureOnOpen": true,
+
 "cmake.configureSettings": {
+  
   "CMAKE_TOOLCHAIN_FILE": "[Path to vcpkg]/scripts/buildsystems/vcpkg.cmake"
+
 }
 
 
 Final settings json file should look like something similar to
 
 {
+    
     "go.toolsManagement.autoUpdate": true,
+    
     "cmake.configureOnOpen": true,
+    
     "cmake.configureSettings": {
+        
         "CMAKE_TOOLCHAIN_FILE": "D:/Workspace/vcpkg/scripts/buildsystems/vcpkg.cmake"
+    
     },
+    
     "redhat.telemetry.enabled": true
+
 }
 
 
@@ -39,19 +49,33 @@ https://vcpkg.io/en/getting-started.html
 Your vcpkg.json file should look like something similar to 
 
 {
+    
     "name": "filters",
+    
     "version": "0.0.1",
+    
     "builtin-baseline": "a7b6122f6b6504d16d96117336a0562693579933",
+    
     "dependencies": [
+    
         {
+            
             "name": "qt5-base",
+            
             "version>=": "5.15.6"
+        
         },
+        
         {
+            
             "name": "opencv",
+            
             "version>=": "4.6.0"
+        
         }
+    
     ]
+
 }
 
 
