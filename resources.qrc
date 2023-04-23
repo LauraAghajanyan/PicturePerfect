@@ -1,0 +1,63 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/add_picT.jpg</file>
+        <file>Icons/address-card.png</file>
+        <file>Icons/black_and_white.jpg</file>
+        <file>Icons/camera_t.png</file>
+        <file>Icons/disk.png</file>
+        <file>Icons/home.png</file>
+        <file>Icons/paint.jpg</file>
+        <file>Icons/rotateLeft.png</file>
+        <file>Icons/rotateRight.png</file>
+        <file>Icons/image.png</file>
+        <file>Icons/blue-eyes.jpg</file>
+        <file>Icons/window_icon.jpg</file>
+        <file>Icons/zoomIn.png</file>
+        <file>Icons/zoomOut.jpg</file>
+        <file>Icons/green-eyes.jpg</file>
+        <file>Icons/sand.jpg</file>
+        <file>Icons/original.jpg</file>
+        <file>Icons/plus.png</file>
+        <file>Icons/minus.png</file>
+        <file>Icons/rubber.png</file>
+        <file>Icons/color-palette.png</file>
+        <file>Icons/wheel.png</file>
+        <file>Icons/hands.jpg</file>
+        <file>Icons/rain.jpg</file>
+        <file>Icons/redNose.jpg</file>
+        <file>Icons/date.jpg</file>
+        <file>Icons/rainbow.jpg</file>
+        <file>Icons/snow.jpg</file>
+        <file>Icons/sparkles.jpg</file>
+        <file>Icons/square_on_face.png</file>
+        <file>Icons/waning-moon.png</file>
+        <file>Icons/sun.png</file>
+        <file>Icons/blur.jpg</file>
+        <file>Icons/question.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Images/cat.jpg</file>
+        <file>Images/cat1.jpg</file>
+        <file>Images/cat3.jpg</file>
+        <file>Images/funny.jpg</file>
+        <file>Images/hotdog.jpg</file>
+        <file>Images/image1.jpg</file>
+        <file>Images/image2.jpg</file>
+        <file>Images/image4.jpg</file>
+        <file>Images/lama.jpg</file>
+        <file>Images/theweeknd.jpg</file>
+        <file>Images/logo.jpg</file>
+        <file>Images/ariana_grande.jpeg</file>
+        <file>Images/selena.jpg</file>
+        <file>Images/smiles.png</file>
+        <file>Images/Screenshot 2023-04-14 at 22.07.08.png</file>
+        <file>Images/skynews-star-sky-night-somerset_4641946.jpg</file>
+        <file>Images/Image Preview rain.jpg</file>
+        <file>Images/rain-texture-on-black-background-vector-31712235.jpg</file>
+        <file>Images/red-ball-removebg-preview.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>XML files/haarcascade_nose.xml</file>
+        <file>XML files/haarcascade_face.xml</file>
+    </qresource>
+</RCC>
